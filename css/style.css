@@ -1,0 +1,57 @@
+body {
+	background-image: url('../images/nutcracker.jpg');
+
+}
+h1 {
+	font-size: 2.25rem;
+	color: red;
+	text-shadow: 2px 2px 2px black;
+	margin-top: 5rem;
+	margin-left: 5rem;
+
+}
+
+.question-page, .results {
+
+border: 10px solid red;
+border-radius: 5px;
+background-color: white;
+width: 40rem;
+margin-top: 5rem;
+margin-left: 3rem;
+padding: 2rem;
+text-shadow: none;
+
+
+
+}
+
+h2 {
+	font-size: 1.5rem;
+
+
+}
+ul {
+	list-style:none;
+	font-size: 1rem;
+}
+
+
+button {
+
+	background-color: red;
+	size: 3rem;
+	border-radius: 10px;
+	font-weight: bold;
+}
+
+.results {
+	border: 10px solid gold;
+	
+
+}
+
+
+
+	
+	
