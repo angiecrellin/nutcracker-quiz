@@ -25,9 +25,15 @@ margin-top: 3rem;
 margin-left: 3rem;
 padding: 2rem;
 text-shadow: none;
+position: relative;
+color: red;
+font-size: 1.5rem;
 
-
-
+}
+.questionNumber {
+	position: absolute;
+	bottom: 1rem;
+	right: 1rem;
 }
 
 h2 {
@@ -47,12 +53,16 @@ button {
 	border-radius: 10px;
 	font-weight: bold;
 	font-size: 1rem;
+	margin-top: 2rem;
+	margin-left: 1rem;
 }
 
 .results {
 	border: 10px solid gold;
 	text-align: center;
 	display:none;
+	font-size: 1.5rem;
+	
 	
 
 }
